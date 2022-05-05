@@ -1,0 +1,3 @@
+sudo setfacl -m u:denny:rw /dev/input/event20
+sudo setfacl -m u:denny:rw /dev/input/event13
+
